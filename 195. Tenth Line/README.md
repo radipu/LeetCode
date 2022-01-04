@@ -21,3 +21,5 @@ Line 10
 Note:
 1. If the file contains less than 10 lines, what should you output?
 2. There's at least three different solutions. Try to explore all possibilities.
+
+The above solution is found: https://developpaper.com/leetcode195-tenth-line/
