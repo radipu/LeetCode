@@ -1,0 +1,28 @@
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.exe
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.deps.json
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.runtimeconfig.json
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.runtimeconfig.dev.json
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.dll
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.pdb
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.csproj.AssemblyReference.cache
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.AssemblyInfoInputs.cache
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.AssemblyInfo.cs
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.csproj.CoreCompileInputs.cache
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.dll
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.pdb
+C:\Users\raddu\source\repos\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.genruntimeconfig.cache
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.exe
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.deps.json
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.runtimeconfig.json
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.runtimeconfig.dev.json
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.dll
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\bin\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.pdb
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.csproj.AssemblyReference.cache
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.AssemblyInfoInputs.cache
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.AssemblyInfo.cs
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.csproj.CoreCompileInputs.cache
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.dll
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.pdb
+F:\My Work Station\C# all\Console Applications\LeetCode\19. Remove Nth Node From End of List\19. Remove Nth Node From End of List\obj\Debug\netcoreapp3.1\19. Remove Nth Node From End of List.genruntimeconfig.cache

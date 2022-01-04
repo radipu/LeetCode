@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. Remove Nth Node From End of List", "19. Remove Nth Node From End of List\19. Remove Nth Node From End of List.csproj", "{C558097E-1032-43C8-93DA-09EC85C7522D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C558097E-1032-43C8-93DA-09EC85C7522D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C558097E-1032-43C8-93DA-09EC85C7522D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C558097E-1032-43C8-93DA-09EC85C7522D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C558097E-1032-43C8-93DA-09EC85C7522D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B040DEBA-A16E-435F-8CAA-ED5110942FF8}
+	EndGlobalSection
+EndGlobal
