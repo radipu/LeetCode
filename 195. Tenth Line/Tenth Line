@@ -1,0 +1,45 @@
+Solution 1
+
+head -n 10 file.txt | tail -n +10
+
+head -n 10 file.txt: gets the first ten lines, or the entire file (if the file is less than ten lines).
+tail -n +10: get everything from line 10 and after it.
+
+   -n, --lines=[+]NUM
+         output the last NUM lines, instead of the last 10; or use -n +NUM to output starting with line NUM
+In this way, if the file is less than ten lines, the last line will not be output, but the output isempty。
+
+Solution 2
+
+cat file.txt | sed -n '10p'
+
+-n: display only the corresponding number of rows. If not, it will output all
+'10p'MediumpRefer to print
+
+   -n, --quiet, --silent
+         suppress automatic printing of pattern space
+
+   p      Print the current pattern space.
+
+  number      Match only the specified line number (which increments  cumula‐
+              tively  across  files, unless the -s option is specified on the
+              command line).
+Solution 3
+
+cat file.txt | sed '10!d'
+
+d: delete
+   d      Delete pattern space.  Start next cycle.
+   
+Solution 4
+
+Here are four equivalent usesawkExpression:
+
+#awk example 1
+cat file.txt | awk 'NR==10'
+#awk example 2
+cat file.txt | awk 'NR==10{print}'
+#awk example 3
+cat file.txt | awk '{if(NR==10) print}'
+#Awk example 4 full version
+cat file.txt | awk 'BEGIN{}; { if(NR==10) {print;} }; END{};'
