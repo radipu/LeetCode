@@ -1,3 +1,7 @@
-SELECT t.Request_at Day, ROUND(SUM(CASE WHEN t.Status LIKE 'cancelled%' THEN 1 ELSE 0 END)/COUNT(*), 2) 'Cancellation Rate'
-FROM Trips t JOIN Users u ON t.Client_Id = u.Users_Id AND u.Banned = 'No' 
-WHERE t.Request_at BETWEEN '2013-10-01' AND '2013-10-03' GROUP BY t.Request_at;
+select t.Request_at as Day,
+        cast(sum(case when Status <> 'completed' then 1.00 else 0.00 end)/count(*) as decimal(10,2)) as 'Cancellation Rate'
+from Trips as t
+join Users as uc on t.Client_Id = uc.Users_Id and uc.Banned = 'No'
+join Users as ud on t.Driver_id = ud.Users_Id and ud.Banned = 'No'
+where t.Request_at between '2013-10-01' and '2013-10-03'
+group by t.Request_at
