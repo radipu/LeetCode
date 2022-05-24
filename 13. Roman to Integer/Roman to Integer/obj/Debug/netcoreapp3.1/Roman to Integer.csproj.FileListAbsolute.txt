@@ -1,0 +1,14 @@
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.exe
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.deps.json
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.runtimeconfig.json
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.runtimeconfig.dev.json
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.dll
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.pdb
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.csproj.AssemblyReference.cache
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.AssemblyInfo.cs
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.dll
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.pdb
+C:\Users\curet\source\repos\Roman to Integer\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.genruntimeconfig.cache
