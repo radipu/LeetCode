@@ -1,0 +1,14 @@
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\netcoreapp3.1\Longest Valid Parentheses.exe
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\netcoreapp3.1\Longest Valid Parentheses.deps.json
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\netcoreapp3.1\Longest Valid Parentheses.runtimeconfig.json
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\netcoreapp3.1\Longest Valid Parentheses.runtimeconfig.dev.json
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\netcoreapp3.1\Longest Valid Parentheses.dll
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\bin\Debug\netcoreapp3.1\Longest Valid Parentheses.pdb
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.AssemblyInfo.cs
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.dll
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.pdb
+C:\Users\curet\source\repos\Longest Valid Parentheses\Longest Valid Parentheses\obj\Debug\netcoreapp3.1\Longest Valid Parentheses.genruntimeconfig.cache
