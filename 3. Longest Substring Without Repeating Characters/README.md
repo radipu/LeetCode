@@ -1,38 +1,33 @@
-Given a string s, find the length of the longest substring without repeating characters.
+<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code>, find the length of the <strong>longest substring</strong> without repeating characters.</p>
 
- 
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
-Example 1:
+<pre><strong>Input:</strong> s = "abcabcbb"
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> The answer is "abc", with the length of 3.
+</pre>
 
-Input: s = "abcabcbb"
+<p><strong>Example 2:</strong></p>
 
-Output: 3
+<pre><strong>Input:</strong> s = "bbbbb"
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> The answer is "b", with the length of 1.
+</pre>
 
-Explanation: The answer is "abc", with the length of 3.
+<p><strong>Example 3:</strong></p>
 
-
-Example 2:
-
-Input: s = "bbbbb"
-
-Output: 1
-
-Explanation: The answer is "b", with the length of 1.
-
-
-Example 3:
-
-Input: s = "pwwkew"
-
-Output: 3
-
-Explanation: The answer is "wke", with the length of 3.
-
+<pre><strong>Input:</strong> s = "pwwkew"
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> The answer is "wke", with the length of 3.
 Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
- 
+</pre>
 
-Constraints:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-0 <= s.length <= 5 * 104
-
-s consists of English letters, digits, symbols and spaces.
+<ul>
+	<li><code>0 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>s</code> consists of English letters, digits, symbols and spaces.</li>
+</ul>
+</div>
