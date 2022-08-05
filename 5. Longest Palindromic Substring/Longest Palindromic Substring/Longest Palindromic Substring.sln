@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Palindromic Substring", "Longest Palindromic Substring\Longest Palindromic Substring.csproj", "{AC76592B-A622-4344-B679-044CEFA3A7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC76592B-A622-4344-B679-044CEFA3A7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC76592B-A622-4344-B679-044CEFA3A7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC76592B-A622-4344-B679-044CEFA3A7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC76592B-A622-4344-B679-044CEFA3A7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6F03A6-FBE2-4474-A72D-1B0806F14572}
+	EndGlobalSection
+EndGlobal
